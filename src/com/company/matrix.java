@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class matrix {
     public static int[][] creatureMatrix(int numberOfLine, int numberOfColumns) {
         Scanner scanner = new Scanner(System.in);
+        // oryyyyy
         int[][] matrix = new int[numberOfLine][numberOfColumns];
         for (int i = 0; i < numberOfLine; i++) {
             for (int j = 0; j < numberOfColumns; j++) {
