@@ -12,8 +12,6 @@ public class Main {
         System.out.println("Enter number of line: ");
         int numberOfLine = scanner.nextInt();
         System.out.println(" LOLX");
-        System.out.println(" LOLX");
-        System.out.println(" LOLX");
         if (numberOfLine > 0 && numberOfColumns > 0) {
             int[][] matrixA = matrix.creatureMatrix(numberOfLine, numberOfColumns);
             System.out.println("matrix B");
